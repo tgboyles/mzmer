@@ -15,3 +15,6 @@ zbucher
 Zac's Bio
 
 Zac is learning to program in order to actualize a plethora of App ideas. In his free time Zac enjoys developing his own pythons with max lifts in Olympic Lifting. Double entendre without a hint of irony... there's an app for that. 
+
+====
+Issues: Github seems to work. Cloud 9 I may need another walk through. 
